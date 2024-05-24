@@ -1,0 +1,125 @@
+### Technical Features
+
+#### Processor (CPU)
+- **Model**: AMD Ryzen 5 7535HS
+- **Clock Speed**: 3.3 GHz (base) to 4.55 GHz (boost)
+- **Number of Cores**: 6 cores
+- **Cache Size**: 16 MB L3 cache
+- **Architecture**: Zen 3+ microarchitecture
+
+#### Memory (RAM)
+- **Type**: DDR5
+- **Size**: 8 GB
+- **Speed**: 4800 MHz
+- **Expandability**: Yes, additional RAM can be added
+
+#### Storage
+- **Type**: PCIe NVMe TLC M.2 SSD
+- **Capacity**: 512 GB
+- **Speed (Read/Write)**: Not found
+- **Expandability**: Yes, can be replaced or supplemented with additional storage
+
+#### Graphics (GPU)
+- **Integrated or Dedicated**: Dedicated
+- **Model**: NVIDIA GeForce RTX 2050
+- **VRAM Size**: 4 GB
+- **Graphics Clock Speed**: Not found
+
+#### Operating System
+- **Pre-installed OS**: Windows 11 Home
+- **Supported OS versions**: Windows 11 Home and later
+
+#### Screen Features
+- **Size**: 15.6 inches
+- **Resolution**: 1920 x 1080 (Full HD)
+- **Panel Type**: IPS
+- **Refresh Rate**: 144Hz
+- **Brightness (nits)**: 250 nits
+- **Color Accuracy**: 45% NTSC
+- **Touchscreen**: No
+- **Aspect Ratio**: 16:9
+
+#### Build and Design
+- **Dimensions (Height, Width, Depth)**: 35.79 x 25.5 x 2.35 cm
+- **Weight**: 2.29 kg
+- **Material**: Not found
+- **Color Options**: Mica Silver
+- **Build Quality**: Good, but screen feels slightly flimsy
+- **Keyboard**: Backlit keyboard with integrated numeric pad
+- **Touchpad**: Standard touchpad
+
+#### Connectivity
+
+##### Ports
+- **USB**: 1 USB Type-C 5Gbps, 2 USB Type-A 5Gbps
+- **HDMI**: HDMI 2.1
+- **DisplayPort**: Through USB-C
+- **Ethernet**: RJ-45
+- **Audio Jack**: Headphone/microphone combo
+- **SD Card Reader**: 1 multi-format SD media card reader
+
+##### Wireless
+- **Wi-Fi Standards**: Wi-Fi 6 (MediaTek Wi-Fi 6 MT7921)
+- **Bluetooth Version**: Bluetooth 5.3
+
+##### Additional Connectivity
+- **NFC**: No
+- **SIM Card Slot**: No
+
+#### Battery and Power
+- **Battery Capacity (Wh)**: 52.5 Wh
+- **Battery Life (in hours)**: Up to 6 hours
+- **Charging Speed**: Approximately 50% in 30 minutes (fast charge)
+- **Type of Charger**: 150 W Smart AC power adapter
+
+#### Audio and Camera
+
+##### Speakers
+- **Number**: Dual speakers
+- **Quality**: Audio by B&O; HP Audio Boost
+
+##### Microphone
+- **Number**: Dual array digital microphones
+- **Quality**: Integrated with temporal noise reduction
+
+##### Camera
+- **Resolution**: HP Wide Vision 720p HD camera
+- **Features**: Temporal noise reduction
+
+#### Additional Features
+
+##### Security
+- **Fingerprint Reader**: Not found
+- **Facial Recognition**: Not found
+- **TPM**: Trusted Platform Module (Firmware TPM) support
+
+##### Included Software
+- **Antivirus**: McAfee Online Protection 30-day trial
+- **Office Suite**: Not found
+- **Custom Utilities**: Not found
+
+##### Cooling System
+- **Type**: Dual fans on one side
+- **Efficiency**: Noted to have heating issues under high load
+
+##### Expandability
+- **Ease of Access for Upgrades**: RAM and SSD can be upgraded
+- **Supported Upgrades**: Additional RAM and larger SSD
+
+#### Warranty and Support
+- **Duration**: 1 year
+- **Type**: Limited warranty includes 1 year of parts and labor
+
+#### Accessories
+- **Included**: 64GB USB Flash Drive (not always included as noted by some users)
+- **Compatibility with additional accessories**: Standard laptop accessories (mouse, external drives, etc.)
+
+#### Environmental and Energy Efficiency
+- **Energy Star Rating**: Not found
+- **RoHS Compliance**: Not found
+
+#### User Reviews and Ratings
+- **Average Rating**: 4.2 to 4.6 out of 5 stars across different platforms
+- **Common Pros and Cons**: Good performance for the price, decent display, expandable RAM; Quiet speakers, heating issues, poor battery life, some build quality concerns, missing USB flash drive in some cases
+
+This comprehensive report provides a detailed understanding of the HP Victus 15.6" Gaming Laptop's specifications, functionalities, and potential applications.

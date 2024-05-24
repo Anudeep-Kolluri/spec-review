@@ -1,0 +1,125 @@
+### Technical Features
+
+#### Processor (CPU)
+- **Model**: Intel Core i5-13420H
+- **Clock Speed**: 1.5 GHz (up to 4.7 GHz with Turbo Boost)
+- **Number of Cores**: 10 cores (6 performance cores + 4 efficiency cores)
+- **Cache Size**: 18 MB L3 cache
+- **Architecture**: Alder Lake
+
+#### Memory (RAM)
+- **Type**: DDR4
+- **Size**: 8 GB (2 x 4 GB)
+- **Speed**: 3200 MHz
+- **Expandability**: Yes, up to 32 GB
+
+#### Storage
+- **Type**: PCIe NVMe SSD
+- **Capacity**: 512 GB
+- **Speed (Read/Write)**: Not specified
+- **Expandability**: Yes, additional M.2 slot available
+
+#### Graphics (GPU)
+- **Integrated or Dedicated**: Dedicated
+- **Model**: NVIDIA GeForce RTX 3050
+- **VRAM Size**: 6 GB GDDR6
+- **Graphics Clock Speed**: Not specified
+
+#### Operating System
+- **Pre-installed OS**: Windows 11 Home
+- **Supported OS versions**: Windows 11 Home
+
+#### Screen Features
+- **Size**: 15.6 inches
+- **Resolution**: Full HD (1920 x 1080)
+- **Panel Type**: IPS
+- **Refresh Rate**: 144 Hz
+- **Brightness (nits)**: Not specified
+- **Color Accuracy**: Not specified
+- **Touchscreen**: No
+- **Aspect Ratio**: 16:9
+
+#### Build and Design
+- **Dimensions (Height, Width, Depth)**: 0.93" x 14.09" x 10.04"
+- **Weight**: Not specified
+- **Material**: Plastic chassis
+- **Color Options**: Performance Blue
+- **Build Quality**: Sturdy and durable
+- **Keyboard**: Backlit keyboard
+- **Touchpad**: Yes
+
+#### Connectivity
+
+##### Ports
+- **USB**: Multiple USB Type-A and Type-C ports
+- **HDMI**: Yes
+- **DisplayPort**: Not specified
+- **Ethernet**: Not specified
+- **Audio Jack**: Yes
+- **SD Card Reader**: Yes
+
+##### Wireless
+- **Wi-Fi Standards**: Wi-Fi 6
+- **Bluetooth Version**: Bluetooth 5.2
+
+##### Additional Connectivity
+- **NFC**: Not specified
+- **SIM Card Slot**: Not specified
+
+#### Battery and Power
+- **Battery Capacity (Wh)**: Not specified
+- **Battery Life (in hours)**: Average, varies with usage
+- **Charging Speed**: Not specified
+- **Type of Charger**: Not specified
+
+#### Audio and Camera
+
+##### Speakers
+- **Number**: Not specified
+- **Quality**: Not specified
+
+##### Microphone
+- **Number**: Not specified
+- **Quality**: Not specified
+
+##### Camera
+- **Resolution**: Not specified
+- **Features**: Not specified
+
+#### Additional Features
+
+##### Security
+- **Fingerprint Reader**: Not specified
+- **Facial Recognition**: Not specified
+- **TPM**: Not specified
+
+##### Included Software
+- **Antivirus**: Not specified
+- **Office Suite**: Not specified
+- **Custom Utilities**: Not specified
+
+##### Cooling System
+- **Type**: Not specified
+- **Efficiency**: Not specified
+
+##### Expandability
+- **Ease of Access for Upgrades**: Not specified
+- **Supported Upgrades**: RAM and storage
+
+#### Warranty and Support
+- **Duration**: Not specified
+- **Type**: Not specified
+
+#### Accessories
+- **Included**: Not specified
+- **Compatibility with additional accessories**: Not specified
+
+#### Environmental and Energy Efficiency
+- **Energy Star Rating**: Yes
+- **RoHS Compliance**: Not specified
+
+#### User Reviews and Ratings
+- **Average Rating**: 4.6 out of 5 stars (from 1009 reviews)
+- **Common Pros and Cons**: 
+  - **Pros**: Sleek design, sturdy build, powerful hardware, high refresh rate display, customizable backlit keyboard
+  - **Cons**: Slightly shorter battery life, heavier side, produces substantial heat under full load
